@@ -4,6 +4,7 @@ go 1.23.5
 
 require (
 	github.com/DATA-DOG/go-sqlmock v1.5.2
+	github.com/caarlos0/env/v11 v11.3.1
 	github.com/getkin/kin-openapi v0.127.0
 	github.com/gin-contrib/cors v1.7.2
 	github.com/gin-contrib/timeout v1.0.1
